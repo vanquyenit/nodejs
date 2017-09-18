@@ -1,2 +1,2 @@
-var n= 1000;
-console.log(n);
+var n = 1000;
+module.exports = n;
